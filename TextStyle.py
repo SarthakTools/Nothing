@@ -6,7 +6,7 @@ def tmux():
       print("\033[1;30;1mTermux is a Android tool of linux environment")
       
 t = "\033[1;32;1mDark Tools \n"
-print(t.center(80))
+print(t.center(82))
 while True:
     name = input("\033[1;33;1mWhat is your name ?  :   ")
     if name == "":
@@ -15,9 +15,9 @@ while True:
         break
 os.system("clear")
 c = "\033[1;30;1mWelcome to Termux \n"
-print(c.center(80))
-print("\033[1;31;1m[1]\033[1;31;1m About")
-print("\033[1;31;1m[2]\033[1;31;1m Exit \n \n")
+print(c.center(82))
+print("\033[1;31;1m[1]\033[1;32;1m About")
+print("\033[1;31;1m[2]\033[1;32;1m Exit \n \n")
 
 choice = int(input("\033[1;33;1m[*] \033[1;34;1mChoose   :   "))
 if choice == "":
