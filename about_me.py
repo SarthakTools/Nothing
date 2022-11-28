@@ -6,8 +6,8 @@ def tmux():
       print("\033[1;30;1mTermux is a Android tool of linux environment")
       
 os.system("clear")
-t = "\033[1;32;1mDark Tools \n"
-print(t.center(82))
+t = "\033[1;32;1mWelcome to Track Tools \n"
+print(t.center(100))
 while True:
     name = input("\033[1;33;1mWhat is your name ?  :   ")
     if name == "":
