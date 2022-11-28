@@ -5,6 +5,7 @@ from time import sleep
 def tmux():
       print("\033[1;30;1mTermux is a Android tool of linux environment")
       
+os.system("clear")
 t = "\033[1;32;1mDark Tools \n"
 print(t.center(82))
 while True:
