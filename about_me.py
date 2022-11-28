@@ -16,7 +16,7 @@ while True:
         break
 os.system("clear")
 c = "\033[1;30;1mWelcome to Linux Environment Tool... \n"
-print(c.center(82))
+print(c.center(100))
 print("\033[1;31;1m[1]\033[1;32;1m About")
 print("\033[1;31;1m[2]\033[1;32;1m Exit \n \n")
 
