@@ -27,7 +27,7 @@ elif choice == 2:
     
 #funtion defined in python
 
-text = f"\n\033[1;36;1mHello   {name} ...\nWelcome to TrackTools !\n\n\033[1;37;1mAuthor  \033[1;32;1m: \033[1;33;1mSarthak Singh \n\033[1;37;1mGithub  \033[1;32;1m: \033[1;33;1mhttps://github.com/SarthakTools \n\033[1;37;1mVersion \033[1;32;1m: \033[1;37;1m3.9.7\nTotal   \033[1;32;1m: \033[1;33;1m0 tool & no update\n\n\033[1;34;1mThanks for using this program ^_^ . \nPlease visit my website and explore there.\n\n"
+text = f"\n\033[1;36;1mHello   {name} ...\nWelcome to TrackTools !\n\n\033[1;37;1mAuthor  \033[1;32;1m: \033[1;33;1mSarthak Singh \n\033[1;37;1mGithub  \033[1;32;1m: \033[1;33;1mhttps://github.com/SarthakTools \n\033[1;37;1mVersion \033[1;32;1m: \033[1;37;1m3.9.7\nTotal   \033[1;32;1m: \033[1;33;1m1 tool & many update\n\n\033[1;34;1mThanks for using this program ^_^ . \nPlease visit my website and explore there.\n\n"
 
 text2 = "\033[1;31;1m___________________________________________ \n \n"
 for letter in text:
