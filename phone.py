@@ -1,8 +1,10 @@
 import sys
+import os
 from time import sleep
 import phonenumbers
 from phonenumbers import geocoder, carrier,timezone
 
+os.system("clear")
 a = "\033[1;31;1mFind The Location With Phonenumbers \n \n"
 print(a.center(60))
 
